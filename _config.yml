@@ -1,7 +1,7 @@
 # Site settings
 
 # NB! Set your site's url, otherwise nothing will work
-url: "https://le4ker.github.io/personal-jekyll-theme"
+url: "https://dev-the-desai.github.io/"
 
 # Google tracking id
 google-tracking-id: "UA-XXXXXXXX-X"
@@ -11,23 +11,23 @@ google-tracking-id: "UA-XXXXXXXX-X"
 #############
 
 lang: "en"
-author: "John Smith"
-title: "{ John Smith }"
-description: "Blog and website of John Smith, blogging mainly for tech. Opinions expressed are mine."
-keywords: "smith, jones, personal, jekyll, theme"
+author: "Dev Desai"
+title: "{ Dev Desai }"
+description: "Blog and website of Dev Desai, blogging mainly for tech. Opinions expressed are mine."
+keywords: "dev, desai, personal, jekyll, theme"
 favicon: "/img/favicon.ico"
 ################
 # Header layout#
 ################
 black-favicon: "/img/black-lab-glass.ico"
-background-img: "intro-bg.jpg"
+background-img: "pdiddy_mugshot.jpg"
 
 ##############################
 # Dynamic Text on the Header #
 ##############################
 
-quote: "Where’s your will to be weird?"
-me-img: "/img/jetpacktocat.png"
+quote: "Where’s your will to be diddied?"
+me-img: "/img/pdiddy.png"
 
 # To use github profile pic uncomment the following line and replace 'user_name'
 # with your github user name.
@@ -78,7 +78,7 @@ timeline-img: "/img/timeline/default.png"
 # Contact #
 ###########
 
-email: "your@email.here"
+email: "devdesai.contact@gmail.com"
 # Set a url pointing to your publish PGP Public Key here, and it will appear in the Contact section
 pgp: False
 
